@@ -7,3 +7,5 @@ HTML | CSS | Javascript
 <br>
 <br>
 Voice Speech API : https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+
+Projeto pronto: https://rudijr.github.io/numero-secreto/
